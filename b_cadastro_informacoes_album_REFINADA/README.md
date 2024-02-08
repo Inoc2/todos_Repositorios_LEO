@@ -1,0 +1,1 @@
+[REFINADA, INDIVIDUAL] Apresenta as versões 1 e 2 do programa que utiliza a biblioteca TkInter para uma interface para cadastro de álbuns, os quais são salvos num arquivo txt.
