@@ -1,1 +1,0 @@
-[REFINADA, INDIVIDUAL] Apresenta duas atividades, sendo a 1ª um cadastramento simples de informações dum usuário num arquivo txt, enquanto a 2ª um código simples apresentando algumas funcionalidades da biblioteca tkinter.
