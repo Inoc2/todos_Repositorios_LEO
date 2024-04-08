@@ -15,3 +15,5 @@ Atividade 6 - https://github.com/Inoc2/LNPG_02_ESTRUTURAS
 Atividade 7 - https://github.com/Inoc2/SUBPROGRAMAS_ATV_07
 
 Atividade 8 - https://github.com/Inoc2/LNPG-0XX-TAD-Atividade-08
+
+Atividade 9 - https://github.com/Inoc2/LNPG_DEBUG_ATV_09
